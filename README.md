@@ -26,8 +26,8 @@ Mobile Screenshot :
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tirtho97/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://qr-code-component-main-rose.vercel.app/)
+- Solution URL: [GITHUB LINK](https://github.com/Tirtho97/qr-code-component-main)
+- Live Site URL: [QR CODE](https://qr-code-component-main-rose.vercel.app/)
 
 ### Built with
 
