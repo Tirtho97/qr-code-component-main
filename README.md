@@ -7,13 +7,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -22,6 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 QR Code Challenge completed from Frontend Mentor Challenges. The project is done using basic HTML and CSS with no frameworks used.
 
 ### Screenshot
+
+Desktop Screenshot :
+![image](https://user-images.githubusercontent.com/57649083/156150992-063644be-c439-4b5b-8589-a991daf17f2b.png)
+
+Mobile Screenshot :
+![image](https://user-images.githubusercontent.com/57649083/156151109-4ef84e85-0e64-4b9d-8798-ee9c2a460a82.png)
 
 ### Links
 
